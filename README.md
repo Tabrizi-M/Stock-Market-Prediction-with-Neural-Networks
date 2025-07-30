@@ -1,6 +1,6 @@
 # Stock-Market-Prediction-with-Neural-Networks
 
-This model uses the RNN (recurrent neural networks) and LSTM (long short term memory networks) on historical stock prices. The prediction is the next day price given the past 10 days prices.
+This model uses the RNN (recurrent neural networks) and LSTM (long short term memory networks) on historical stock prices. Every day, it predicts the next day price given the past 10 days prices.
 
 Instructions:
 
