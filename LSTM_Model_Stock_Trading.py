@@ -1,6 +1,3 @@
-# This notebook presents a simple way to introduce RNN (recurrent neural networks) and LSTM (long short term memory networks) for price movement predictions in trading Forex, Stock Market.
-# X is downloaded from yahoo finance. Y (target for prediction) is the next day price. This algo predicts the next day price given 30 days of historical prices(backcandles = 30)
-# Source: https://www.youtube.com/@CodeTradingCafe
 
 # import libraries
 import numpy as np
